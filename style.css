@@ -1,0 +1,11 @@
+.navbarName{
+    font-weight: bold;
+}
+
+.navbar-item, .nav-item{
+    margin-left: 8px;
+}
+
+body{
+    background-image: url(background.jpg);
+}
